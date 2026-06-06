@@ -144,23 +144,14 @@ Este tipo de análisis es útil para:
 
 ---
 
-## 🚀 Posibles Mejoras Futuras
-
-- Incorporar evolución histórica de indicadores por año
-- Agregar indicadores económicos (PIB per cápita, índice de pobreza)
-- Implementar análisis de correlación entre mortalidad infantil y esperanza de vida
-- Incorporar indicadores educativos (tasa de alfabetización, acceso a educación)
-- Segmentación por nivel de desarrollo (países desarrollados vs. en desarrollo)
-- Drill-through por país con detalle de todos los indicadores
-
----
-
 ## 👤 Autor
 
 **Ruben Barrios**
 Proyecto práctico desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-barrios)
+
+Fuente de datos: Academia Datdata
 
 ---
 
