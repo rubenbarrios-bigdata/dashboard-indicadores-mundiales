@@ -33,7 +33,6 @@ El dashboard está diseñado con enfoque ejecutivo para facilitar la toma de dec
 | Indicador | Valor |
 |---|---|
 | Población Mundial Total | 7.413.672.933 |
-| Países Analizados | 216 |
 | Esperanza de Vida Promedio Global | 72,28 años |
 | Mortalidad Infantil Promedio Global | 35,83 muertes / 1.000 niños |
 
