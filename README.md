@@ -1,5 +1,8 @@
 # 📊 Dashboard Indicadores Mundiales – Power BI
 
+Indicadores Mundiales https://app.powerbi.com/groups/me/reports/fe4da4cb-d7b8-4f37-a5b6-5d970986e046/39de16558bde44e60075?redirectedFromSignup=1&experience=power-bi
+Población Por Area https://app.powerbi.com/groups/me/reports/fe4da4cb-d7b8-4f37-a5b6-5d970986e046/5ab04b13d5eb19c67b5a?redirectedFromSignup=1&experience=power-bi
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
