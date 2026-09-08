@@ -1,7 +1,7 @@
 # 📊 Dashboard Indicadores Mundiales – Power BI
 
 [![Ver Dashboard Interactivo](https://img.shields.io/badge/Power_BI-Ver_Dashboard_Interactivo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMmNiYTkyNzctNDM3My00MTUzLWJiZTQtMjBkYWIzMmZhNjhhIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)
-[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/rubenbarrios-bigdata)
+[![Modelado](https://img.shields.io/badge/Modelado-Relacional-0078D4?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 [![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 
 > 🚀 **¡Demo interactiva en vivo!** Haz clic en el botón superior **"Ver Dashboard Interactivo"** para explorar los indicadores mundiales de salud, demografía y rankings por continentes en tiempo real sin requerir cuenta ni descargas.
@@ -92,7 +92,6 @@ Relación principal: tablas de indicadores → dimensión geográfica a través 
 
 ## 🧩 Habilidades Aplicadas
 
-- DAX
 - Modelado de datos relacional
 - Diseño de visualizaciones ejecutivas
 - Storytelling con datos
