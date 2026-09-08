@@ -1,12 +1,11 @@
 # 📊 Dashboard Indicadores Mundiales – Power BI
 
-Indicadores Mundiales https://app.powerbi.com/groups/me/reports/fe4da4cb-d7b8-4f37-a5b6-5d970986e046/39de16558bde44e60075?redirectedFromSignup=1&experience=power-bi
+[![Ver Dashboard Interactivo](https://img.shields.io/badge/Power_BI-Ver_Dashboard_Interactivo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMmNiYTkyNzctNDM3My00MTUzLWJiZTQtMjBkYWIzMmZhNjhhIiwidCI6IjgxY2NjYzQzLWI1NjEtNDFmNy05NDgwLWU5ZThmMDI3YzQ0MyIsImMiOjR9)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/rubenbarrios-bigdata)
+[![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)](https://github.com/rubenbarrios-bigdata)
 
-Población Por Area https://app.powerbi.com/groups/me/reports/fe4da4cb-d7b8-4f37-a5b6-5d970986e046/5ab04b13d5eb19c67b5a?redirectedFromSignup=1&experience=power-bi
+> 🚀 **¡Demo interactiva en vivo!** Haz clic en el botón superior **"Ver Dashboard Interactivo"** para explorar los indicadores mundiales de salud, demografía y rankings por continentes en tiempo real sin requerir cuenta ni descargas.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge)
 
 ---
 
